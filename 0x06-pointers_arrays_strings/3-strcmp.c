@@ -24,7 +24,3 @@ else
 return (*s1 - *s2);
 }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
