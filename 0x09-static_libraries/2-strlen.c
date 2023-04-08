@@ -2,7 +2,6 @@
 /**
  * _strlen - returns the length of a string
  * @s: string
- * created by kobo
  * Return: length
  */
 int _strlen(char *s)
@@ -19,3 +18,4 @@ int _strlen(char *s)
 
 	return (longi);
 }
+

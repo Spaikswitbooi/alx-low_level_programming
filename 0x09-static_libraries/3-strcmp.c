@@ -3,7 +3,7 @@
  * _strcmp - compare string values
  * @s1: input value
  * @s2: input value
- * by kobo
+ *
  * Return: s1[i] - s2[i]
  */
 int _strcmp(char *s1, char *s2)

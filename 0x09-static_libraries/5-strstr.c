@@ -2,7 +2,6 @@
 /**
  * _strstr - Entry point
  * @haystack: input
- * by kobo
  * @needle: input
  * Return: Always 0 (Success)
  */
@@ -28,3 +27,5 @@ char *_strstr(char *haystack, char *needle)
 
 	return (0);
 }
+
+

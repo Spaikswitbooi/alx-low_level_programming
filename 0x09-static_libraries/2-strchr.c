@@ -3,7 +3,6 @@
  * _strchr - Entry point
  * @s: input
  * @c: input
- * by kobo
  * Return: Always 0 (Success)
  */
 char *_strchr(char *s, char c)

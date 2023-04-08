@@ -4,7 +4,7 @@
  * @s: starting address of memory to be filled
  * @b: the desired value
  * @n: number of bytes to be changed
- * by kobo
+ *
  * Return: changed array with new value for n bytes
  */
 char *_memset(char *s, char b, unsigned int n)
@@ -19,3 +19,4 @@ n--;
 }
 return (s);
 }
+
